@@ -1,0 +1,103 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	display: flex;
+	justify-content: space-between;
+	color: white;
+}
+
+.header .nav-bar ul{
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+}
+.header .nav-bar ul li{
+	margin-right: 13px;
+}
+
+.s1{
+	height: 1017px;
+	background-image: url("background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0px;
+	padding: 0px;
+}
+.ourplace{
+	color: white;
+    font-size: 80px;
+    width: 14%;
+    border: 6px solid white;
+    margin-top: 17%;
+    margin-left: 41%;
+}
+.ourplace2{
+	color: white;
+    font-size: 50px;
+    width: 14%;
+    margin-left: 41%;
+}
+
+.section2{
+	background-color: #42363A;
+	margin: 0px;
+	padding: 0px;
+}
+
+.section2 h1{
+	color: white;
+	margin-left: 12%;
+	margin-top: 0px;
+	padding-top: 120px;
+	font-size: 35px;
+}
+
+.images{
+	display: flex;
+}
+.section2 .images .pic1{
+   position: relative;
+    font-size: 30px;
+    left: 130%;
+    top: 30%;
+    background-color: #AA6327;
+    color: white;
+    width: 170px;
+    height: 130px;
+}
+
+.section2 .images .pic2{
+	position: relative;
+    font-size: 30px;
+    left: 130%;
+    top: 30%;
+    background-color: #D24F4B;
+    color: white;
+    width: 170px;
+    height: 130px;
+}
+
+.section2 .images .pic3{
+	position: relative;
+    font-size: 30px;
+    left: 130%;
+    top: 30%;
+    background-color: #84993B;
+    color: white;
+    width: 170px;
+    height: 130px;
+}
+.section3 {
+   background-image: url("layer 20.png");
+   background-size: cover;
+   padding: 300px;
+   
+  
+}
+/*.section3 .h1{
+    margin-top: 30px;
+
+}
+*/
